@@ -1,0 +1,351 @@
+[2021-10-20 14:03:16]
+{"sender":"6282339601356@c.us","msg":"Terima kasih atas pesan Anda. Kami sedang tidak ada saat ini, tetapi akan merespons secepat mungkin."}
+
+[2021-10-20 14:10:11]
+{"sender":"@c.us"}
+
+[2021-10-20 14:11:11]
+{"sender":"6282298859671@c.us","msg":"d"}
+
+[2021-10-20 14:11:53]
+{"sender":"6282298859671@c.us","msg":"ok"}
+
+[2021-10-20 14:12:44]
+{"sender":"6282298859671@c.us","msg":"d"}
+
+[2021-10-20 14:13:24]
+{"sender":"6282298859671@c.us","msg":"s"}
+
+[2021-10-20 14:14:09]
+{"sender":"6282298859671@c.us","msg":"k"}
+
+[2021-10-20 14:14:50]
+{"sender":"6282298859671@c.us","msg":"s"}
+
+[2021-10-23 21:55:16]
+{"sender":"@c.us"}
+
+[2021-10-23 22:33:09]
+{"sender":"6282126600068@c.us","msg":"Terima kasih atas pesan Anda. Kami sedang tidak ada saat ini, tetapi akan merespons secepat mungkin."}
+
+[2021-10-23 23:46:46]
+{"sender":"6283187664754@c.us","msg":"C"}
+
+[2021-10-23 23:52:37]
+{"sender":"6283187664754@c.us","msg":"Terima kasih sudah membalas. Pesan akan diteruskan ke system LION AIR."}
+
+[2021-10-24 00:02:52]
+{"sender":"6283187664832@c.us","msg":"Yth. Penumpang LION AIR rute JAKARTA-SURABAYA TGL 24 OCT JT596 DIALIHKAN KE JAM 15.40. Info hub 021-63798000. Terimakasih."}
+
+[2021-10-24 00:18:05]
+{"sender":"@c.us"}
+
+[2021-10-24 08:16:05]
+{"sender":"@c.us"}
+
+[2021-12-27 22:09:22]
+{"sender":"6285397229978@c.us","msg":"Link grup wa nya tdk bisa d klik \ud83d\ude4f"}
+
+[2021-12-29 18:10:31]
+{"sender":"@c.us","msg":"Hylos tank \u274c Hylos Core \u2705"}
+
+[2021-12-29 18:47:19]
+{"sender":"6289623823715@c.us","msg":"Gmn bosqu udh d cek blm?"}
+
+[2021-12-29 18:58:38]
+{"sender":"628971779723@c.us","msg":"Haloo"}
+
+[2021-12-29 18:58:47]
+{"sender":"6289623823715@c.us","msg":""}
+
+[2021-12-29 18:58:47]
+{"sender":"6289623823715@c.us","msg":""}
+
+[2021-12-29 18:58:56]
+{"sender":"6289623823715@c.us","msg":"Skalian cek yg ini ya bosqu \ud83d\ude4f"}
+
+[2021-12-29 18:59:02]
+{"sender":"628971779723@c.us","msg":"Boleh tolong bantu isi nama handler?"}
+
+[2021-12-29 19:01:39]
+{"sender":"628971779723@c.us","msg":"Ini nomernya"}
+
+[2021-12-29 19:01:57]
+{"sender":"628971779723@c.us","msg":"Handlernya adrian jakarta barat"}
+
+[2021-12-29 19:10:07]
+{"sender":"6281390231626@c.us","msg":"Kak mau minta refisi lg boleh kak\ud83d\ude01"}
+
+[2021-12-29 19:10:46]
+{"sender":"6281390231626@c.us","msg":""}
+
+[2021-12-29 19:11:01]
+{"sender":"6281390231626@c.us","msg":"Ini no regist nya kak"}
+
+[2021-12-29 20:26:43]
+{"sender":"@c.us","msg":"Sisa dikit"}
+
+[2021-12-29 20:33:27]
+{"sender":"@c.us","msg":"\ud83d\ude05\ud83d\ude05\ud83d\ude05\nSerasa semua menjadi komentator bola di status"}
+
+[2021-12-29 20:33:27]
+{"sender":"6282124842031@c.us","msg":""}
+
+[2021-12-29 20:34:07]
+{"sender":"6282124842031@c.us","msg":"Ini ya mas flayer nya"}
+
+[2021-12-29 20:38:52]
+{"sender":"6282124842031@c.us"}
+
+[2021-12-29 20:46:42]
+{"sender":"@c.us","msg":"Memang kualitas gak bisa boong"}
+
+[2021-12-29 21:23:02]
+{"sender":"@c.us","msg":""}
+
+[2021-12-29 21:26:02]
+{"sender":"6281916678886@c.us","msg":"Malam"}
+
+[2021-12-29 21:26:22]
+{"sender":"6281916678886@c.us","msg":"Sy udah register"}
+
+[2021-12-29 21:26:26]
+{"sender":"6281916678886@c.us","msg":"Dan udah bayar"}
+
+[2021-12-29 21:26:34]
+{"sender":"6281916678886@c.us","msg":"Tapi mau pilih file nya gak bisa"}
+
+[2021-12-29 21:26:39]
+{"sender":"6281916678886@c.us","msg":""}
+
+[2021-12-29 21:27:55]
+{"sender":"6281916678886@c.us","msg":""}
+
+[2021-12-29 21:29:08]
+{"sender":"6281390231626@c.us","msg":"Refisi handler nya kak"}
+
+[2021-12-29 21:29:27]
+{"sender":"628971779723@c.us","msg":"Makasih ya"}
+
+[2021-12-29 21:29:31]
+{"sender":"628971779723@c.us","msg":"Maaf ngerepotin"}
+
+[2021-12-29 21:32:12]
+{"sender":"6281390231626@c.us","msg":"Jadi adrian buntoro"}
+
+[2021-12-29 21:32:26]
+{"sender":"6281390231626@c.us","msg":"Yg ini kak"}
+
+[2021-12-29 21:32:29]
+{"sender":"6281916678886@c.us","msg":"Oke udah bisa, terimakasih"}
+
+[2021-12-29 21:32:35]
+{"sender":"6281916678886@c.us","msg":""}
+
+[2021-12-29 21:32:36]
+{"sender":"6281916678886@c.us","msg":""}
+
+[2021-12-29 21:32:37]
+{"sender":"6281390231626@c.us","msg":"22 nya kan kak"}
+
+[2021-12-29 21:34:19]
+{"sender":"6281390231626@c.us","msg":"Yg 292 belum kak"}
+
+[2021-12-29 21:35:49]
+{"sender":"6281390231626@c.us","msg":"Iya udah kak"}
+
+[2021-12-29 21:36:04]
+{"sender":"6281390231626@c.us","msg":"Makasih banyak ya maap merepotkan\ud83d\ude01"}
+
+[2021-12-29 21:53:41]
+{"sender":"@c.us","msg":"Venom Movie"}
+
+[2021-12-29 22:12:46]
+{"sender":"6287768135117@c.us","msg":"Malam om maaf mau tanya boleh cek lagi nga total entri saya \ud83d\ude4f. Makasih"}
+
+[2021-12-29 22:24:36]
+{"sender":"6287768135117@c.us","msg":"Iya om cuma mau mastiin ajah \ud83d\ude01\ud83d\ude4f"}
+
+[2021-12-29 22:24:50]
+{"sender":"6287768135117@c.us","msg":"Total si 24"}
+
+[2021-12-29 22:57:38]
+{"sender":"6282190607776@c.us","msg":""}
+
+[2021-12-29 22:57:39]
+{"sender":"6282190607776@c.us","msg":"Siap om"}
+
+[2021-12-29 22:57:43]
+{"sender":"6282190607776@c.us","msg":"Bisa ya om"}
+
+[2021-12-29 22:58:49]
+{"sender":"6282190607776@c.us","msg":"Kamsia"}
+
+[2021-12-29 23:07:25]
+{"sender":"6282190607776@c.us","msg":"Selalu ga muncul udah 3 mingguan. Notif handling hehhee. Harus cari halaman notif ke 3 baru pakai notif yg lawas buat masuk menu handling"}
+
+[2021-12-30 07:06:41]
+{"sender":"6287721609215@c.us","msg":"Asssiap"}
+
+[2021-12-30 07:10:49]
+{"sender":"6281292803739@c.us","msg":"Oke thanks infonya"}
+
+[2021-12-30 07:11:57]
+{"sender":"62895326111626@c.us","msg":"Untuk ganti nama handler dan ganti nama Team bagaimana bang??"}
+
+[2022-01-17 08:42:38]
+{"sender":"6282112641212@c.us","msg":"Assiap \ud83d\ude4f\ud83d\udcaa\ud83c\udffd\ud83d\udd25"}
+
+[2022-01-17 08:43:28]
+{"sender":"6283847128242@c.us","msg":"Siyap trimakasih"}
+
+[2022-01-17 08:45:50]
+{"sender":"628119185060@c.us","msg":"Sharelok donk om"}
+
+[2022-01-17 08:48:07]
+{"sender":"6281388365505@c.us","msg":"Good Morning all"}
+
+[2022-01-17 08:48:20]
+{"sender":"6281388365505@c.us","msg":"Sy malam ya"}
+
+[2022-01-17 08:50:38]
+{"sender":"6281377738680@c.us","msg":"Jam brp bench in nya ya?"}
+
+[2022-01-17 08:53:01]
+{"sender":"6283188537235@c.us","msg":"okeh om aman"}
+
+[2022-01-17 08:53:05]
+{"sender":"6283188537235@c.us","msg":"sore bisa kan om?"}
+
+[2022-01-17 08:56:37]
+{"sender":"628119185060@c.us","msg":"Siap om\nTrims"}
+
+[2022-01-17 09:05:07]
+{"sender":"6281377738680@c.us","msg":"Oke siap"}
+
+[2022-01-17 10:01:45]
+{"sender":"628119156165@c.us","msg":"Terima kasih telah menghubungi Yens Betta 165 \ud83e\udd70"}
+
+[2022-01-17 10:09:38]
+{"sender":"6289667755557@c.us","msg":"Yup"}
+
+[2022-01-17 10:11:20]
+{"sender":"6289667755557@c.us","msg":"Yg penting gak mslh design nya aja yg salah \nOke..siap"}
+
+[2022-01-17 10:31:02]
+{"sender":"6281213972278@c.us","msg":"siaaap mas"}
+
+[2022-01-17 10:48:41]
+{"sender":"60167966380@c.us"}
+
+[2022-01-17 11:18:09]
+{"sender":"60167966380@c.us"}
+
+[2022-01-17 11:18:09]
+{"sender":"60167966380@c.us"}
+
+[2022-01-17 11:29:35]
+{"sender":"@c.us","msg":"Fancy dwicolor \ud83d\udd25"}
+
+[2022-01-17 12:40:09]
+{"sender":"@c.us","msg":"Atas = Senior | Bawah = Junior (2 ekor = 1 harga)."}
+
+[2022-01-17 16:44:17]
+{"sender":"6281373927469@c.us","msg":"Siap terimkasih"}
+
+[2022-01-17 16:49:35]
+{"sender":"60167966380@c.us"}
+
+[2022-01-17 16:49:44]
+{"sender":"60167966380@c.us"}
+
+[2022-01-17 16:55:23]
+{"sender":"@c.us","msg":"Otw \u2708\ufe0f"}
+
+[2022-01-17 16:56:35]
+{"sender":"@c.us","msg":"Dont forget it Juragan, Mark ur Date !"}
+
+[2022-01-17 17:08:49]
+{"sender":"60167966380@c.us","msg":""}
+
+[2022-01-17 17:10:20]
+{"sender":"60167966380@c.us","msg":""}
+
+[2022-01-17 17:13:00]
+{"sender":"60167966380@c.us"}
+
+[2022-01-17 17:13:25]
+{"sender":"60167966380@c.us"}
+
+[2022-01-17 18:40:11]
+{"sender":"@c.us","msg":"https:\/\/instagram.com\/stories\/bettasahabatfisch.official\/2753129379438794451?utm_source=ig_story_item_share&utm_medium=share_sheet"}
+
+[2022-01-17 19:50:50]
+{"sender":"6283188537235@c.us","msg":"om kontesnya di belatera kan ya?"}
+
+[2022-01-17 19:55:40]
+{"sender":"6283188537235@c.us","msg":"dimana tuh"}
+
+[2022-01-17 19:55:42]
+{"sender":"6283188537235@c.us","msg":"sharlok"}
+
+[2022-01-17 19:57:18]
+{"sender":"6283188537235@c.us","msg":"okeh om"}
+
+[2022-01-17 20:34:00]
+{"sender":"6289513592445@c.us","msg":"Om maaf no rekening nya yg mana ya"}
+
+[2022-01-17 20:34:44]
+{"sender":"6289513592445@c.us","msg":"Untuk pembayaran lewat M-banking gimna ya"}
+
+[2022-01-17 20:36:23]
+{"sender":"6289513592445@c.us","msg":"Makasih om"}
+
+[2022-01-17 20:45:19]
+{"sender":"@c.us","msg":"\ud83e\udd26\u200d\u2642\ufe0f"}
+
+[2022-01-17 21:24:58]
+{"sender":"@c.us","msg":""}
+
+[2022-01-17 21:24:59]
+{"sender":"@c.us"}
+
+[2022-01-17 22:44:44]
+{"sender":"@c.us","msg":"Oke semangat \ud83d\ude0c"}
+
+[2022-01-17 23:32:58]
+{"sender":"@c.us","msg":"Juragan cupang \u274c\nJuragan cupang farm \u274c\nJuragan soliter \u2705\n\nAda info atau urusan lebih lanjut bisa wa \/ dm yak"}
+
+[2022-01-17 23:32:58]
+{"sender":"@c.us","msg":"CLASS LIST FIXED ! CAPTURE SHARE AND LIKE YAK !, YANG MINAT JADI HANDLER BISA WA SAYA YA JURAGAN \ud83d\ude18, Acara ini bukan apa\" tanpa kalian semua \u2764\ufe0f"}
+
+[2022-01-23 20:50:08]
+{"sender":"@c.us"}
+
+[2022-01-24 18:50:39]
+{"sender":"@c.us","msg":"Bukan berarti saya tidak peduli wahai calon juri\" baruku terkasih tersayang tercinta \ud83d\ude18, saya sedang mengusahakan yang maksimal \ud83d\ude4f\ud83c\udffb"}
+
+[2022-01-24 19:59:12]
+{"sender":"@c.us","msg":"Ok, All Clear, so I will release the announcement soon, please take attention on my whatsapp story, thankyou \ud83d\ude4f\ud83c\udffb"}
+
+[2022-01-24 20:46:55]
+{"sender":"@c.us","msg":"https:\/\/shopee.co.id\/product\/166053546\/10485259446?smtt=0.166055780-1643031844.9\n\nCek..lagi promo Stick Flare ya...!!"}
+
+[2022-01-24 21:16:44]
+{"sender":"@c.us"}
+
+[2022-01-24 21:17:29]
+{"sender":"@c.us"}
+
+[2022-01-24 21:25:03]
+{"sender":"@c.us","msg":"Stiphodon Semoni, Fish in the West Sumatra River. Great for aquascapes.... \ud83d\ude0a"}
+
+[2022-01-24 21:25:03]
+{"sender":"@c.us"}
+
+[2022-01-24 21:29:59]
+{"sender":"@c.us","msg":"Informasi lebih lanjut, pm me ya..."}
+
+[2022-01-24 21:29:59]
+{"sender":"@c.us","msg":"Informasi lebih lanjut, pm ya..."}
+
