@@ -32,7 +32,7 @@ const date = new Date();
 //konfigurasi koneksi
 const db = mysql.createConnection({
 	host: 'localhost',
-	user: 'flareuser',
+	user: 'nodeuser',
 	password: 'Di3sCtB9Br!@',
 	database: 'whatsappdb'
 });
