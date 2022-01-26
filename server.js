@@ -55,8 +55,8 @@ db.connect((err) => {
 // script by mpedia.id , email ilmansunannudin2@gmail.com or whatsapp 082298859671 for support.
 const configs = {
 	port: 8000, // custom port to access server
-	callback_url: 'http://localhost/whatsapp/helper/callback.php', // webhook url
-	url_getkontak: 'http://localhost/whatsapp/helper/getkontak.php'
+	callback_url: 'https://whatsapp.flare.pet/helper/callback.php', // webhook url
+	url_getkontak: 'https://whatsapp.flare.pet/helper/getkontak.php'
 };
 const conn = new WAConnection();
 conn.version = [2, 2147, 16];
