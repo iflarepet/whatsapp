@@ -69,10 +69,10 @@ if (fs.existsSync(SESSION_FILE_PATH)) {
 }
 
 
-//conn.autoReconnect = ReconnectMode.onAllErrors;
-conn.autoReconnect = ReconnectMode.onConnectionLost;
+conn.autoReconnect = ReconnectMode.onAllErrors;
+// conn.autoReconnect = ReconnectMode.onConnectionLost;
 // conn.connectOptions = { reconnectID: "reconnect" };
-conn.connectOptions.alwaysUseTakeover = true;
+// conn.connectOptions.alwaysUseTakeover = true;
 
 
 async function connect() {

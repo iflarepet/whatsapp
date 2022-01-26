@@ -16,3 +16,4 @@ yarn-error.log
 /pages/uploads
 /excel
 /pages/helper/excel
+session.json
